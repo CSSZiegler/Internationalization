@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<application name="i18n" id="i18n">
+    <container type="form" id="frmHome" displayname="Form"/>
+    <container type="form" id="frmLocale" displayname="Form"/>
+    <container type="form" id="frmHome" displayname="Form"/>
+    <container type="form" id="frmHome" displayname="Form"/>
+    <container type="form" id="frmHome" displayname="Form"/>
+    <container type="form" id="frmLocale" displayname="Form"/>
+    <container type="form" id="frmHome" displayname="Form"/>
+    <container type="form" id="frmHome" displayname="Form"/>
+    <container type="form" id="frmHome" displayname="Form"/>
+    <container type="form" id="frmLocale" displayname="Form"/>
+    <globalsequences/>
+    <skins/>
+</application>
