@@ -6,6 +6,7 @@
 */
 
 function navigateToFrmLocale(){
+	frmLocalPreShow();
 	frmLocale.show();
 }
 
@@ -17,22 +18,50 @@ function navigateToFrmLocale(){
 */
 
 function frmLocalPreShow(){
-	frmLocale.lblBundlePresent.text= "";
-	frmLocale.lblCurAsync.text= "";
-	frmLocale.lblDefAsync.text= "";
-	frmLocale.lblDelBundle.text= "";
-	frmLocale.lblDevLocale.text= "";
-	frmLocale.lblGetLocale.text= "";
-	frmLocale.lblLocaleSup.text= "";
-	frmLocale.lblLocString.text= "";
-	frmLocale.lblSetBundle.text= "";
-	frmLocale.lblSupLocale.text= "";
-	frmLocale.lblUpBundle.text= "";
-	frmLocale.btnUpBundle.text = "Update";
-	frmLocale.btnSetBundle.text = "Set";
-	frmLocale.btnDelBundle.text="Delete";
-	frmLocale.btnDefAsync.text ="Set";
-	frmLocale.btnCurAsync.text = "Set";
+	//#ifdef desktopweb
+	try{
+		
+		frmLocale.lblCurAsync.text= "";
+		frmLocale.lblLocString.text= "";
+    	frmLocale.lblSetBundle.text= "";
+    	frmLocale.lblSupLocale.text= "";
+    	frmLocale.lblUpBundle.text= "";
+    	frmLocale.lblDelBundle.text= "";
+		frmLocale.lblDevLocale.text= "";
+		frmLocale.lblGetLocale.text= "";
+		frmLocale.lblLocaleSup.text= "";
+    	frmLocale.lblBundlePresent.text= "";
+    	frmLocale.lblDefAsync.text= "";
+    	frmLocale.btnUpBundle.text = "Update";
+		frmLocale.btnSetBundle.text = "Set";
+		frmLocale.btnDelBundle.text="Delete";
+		frmLocale.btnDefAsync.text ="Set";
+		frmLocale.btnCurAsync.text = "Set";alert("desktop preshow done");
+		}catch(err)
+		{alert(err.message);
+		}
+	//#else
+	try{
+		frmLocale.tabPaneContent.lblBundlePresent.text="";
+		frmLocale.tabPaneContent.lblCurAsync.text= "";
+		frmLocale.tabPaneContent.lblDefAsync.text= "";
+		frmLocale.tabPaneContent.lblDelBundle.text= "";
+		frmLocale.tabPaneContent.lblDevLocale.text= "";
+		frmLocale.tabPaneContent.lblGetLocale.text= "";
+		frmLocale.tabPaneContent.lblLocaleSup.text= "";
+		frmLocale.tabPaneContent.lblLocString.text= "";
+		frmLocale.tabPaneContent.lblSetBundle.text= "";
+		frmLocale.tabPaneContent.lblSupLocale.text= "";
+		frmLocale.tabPaneContent.lblUpBundle.text= "";
+		frmLocale.tabPaneContent.btnUpBundle.text = "Update";
+		frmLocale.tabPaneContent.btnSetBundle.text = "Set";
+		frmLocale.tabPaneContent.btnDelBundle.text="Delete";
+		frmLocale.tabPaneContent.btnDefAsync.text ="Set";
+		frmLocale.tabPaneContent.btnCurAsync.text = "Set";
+		}catch(err)
+		{alert(err.message);}
+	//#endif
+
 	getCurrentLocale();
 }
 

@@ -3364,11 +3364,11 @@
                         </location>
                         <createdGAVersion>5.0.0</createdGAVersion>
                         <size>
-                            <width>35</width>
+                            <width>48</width>
                             <height>48</height>
                         </size>
                         <sizePercent>
-                            <width>8</width>
+                            <width>11</width>
                             <height>100</height>
                         </sizePercent>
                         <skinId>Skin Defaults</skinId>
@@ -3961,7 +3961,7 @@
                             </xhtmlNormal>
                             <xhtmlNormal_override>false</xhtmlNormal_override>
                         </paddings>
-                        <SText>blackbullet.png</SText>
+                        <SText>bullet_balck.png</SText>
                         <overridePerferred>
                             <width>false</width>
                             <height>false</height>
@@ -4058,15 +4058,15 @@
                         <widgetID>p2kwiet10435809853656</widgetID>
                         <createdGAVersion>5.0.0</createdGAVersion>
                         <location>
-                            <x>37</x>
+                            <x>50</x>
                             <y>1</y>
                         </location>
                         <size>
-                            <width>406</width>
+                            <width>393</width>
                             <height>48</height>
                         </size>
                         <sizePercent>
-                            <width>92</width>
+                            <width>89</width>
                             <height>100</height>
                         </sizePercent>
                         <skinId>sknLblBlackSampleApp</skinId>
@@ -5367,11 +5367,11 @@
                         </location>
                         <createdGAVersion>5.0.0</createdGAVersion>
                         <size>
-                            <width>34</width>
+                            <width>48</width>
                             <height>48</height>
                         </size>
                         <sizePercent>
-                            <width>8</width>
+                            <width>11</width>
                             <height>100</height>
                         </sizePercent>
                         <skinId>Skin Defaults</skinId>
@@ -5964,7 +5964,7 @@
                             </xhtmlNormal>
                             <xhtmlNormal_override>false</xhtmlNormal_override>
                         </paddings>
-                        <SText>blackbullet.png</SText>
+                        <SText>bullet_balck.png</SText>
                         <overridePerferred>
                             <width>false</width>
                             <height>false</height>
@@ -6061,15 +6061,15 @@
                         <widgetID>p2kwiet1929296345270</widgetID>
                         <createdGAVersion>5.0.0</createdGAVersion>
                         <location>
-                            <x>36</x>
+                            <x>50</x>
                             <y>1</y>
                         </location>
                         <size>
-                            <width>406</width>
+                            <width>392</width>
                             <height>48</height>
                         </size>
                         <sizePercent>
-                            <width>92</width>
+                            <width>89</width>
                             <height>100</height>
                         </sizePercent>
                         <skinId>sknLblBlackSampleApp</skinId>
