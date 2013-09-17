@@ -5,8 +5,8 @@
     <container displayname="Form" id="frmHome" type="form"/>
     <container displayname="Form" id="frmHome" type="form"/>
     <container displayname="Form" id="frmHome" type="form"/>
-    <container displayname="Form" id="frmLocale" type="form"/>
     <container displayname="Form" id="frmHome" type="form"/>
+    <container displayname="Form" id="frmLocale" type="form"/>
     <container displayname="Form" id="frmLocale" type="form"/>
     <container displayname="Form" id="frmHome" type="form"/>
     <container displayname="Form" id="frmLocale" type="form"/>

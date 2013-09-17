@@ -2,7 +2,7 @@
     <attributes name="applogokey" value="0=icon.png"/>
     <attributes name="androidmapkey2" value=""/>
     <attributes name="ACCESS_WIFI_STATE" value="false"/>
-    <attributes name="mwaddrkey" value="10.10.5.144"/>
+    <attributes name="mwaddrkey" value=""/>
     <attributes name="portkey" value=""/>
     <attributes name="INTERNAL_SYSTEM_WINDOW" value="false"/>
     <attributes name="WRITE_SETTINGS" value="false"/>
@@ -81,7 +81,7 @@
     <attributes name="MANAGE_ACCOUNTS" value="false"/>
     <attributes name="androidscreenanydensity" value="true"/>
     <attributes name="win8badgelogokey" value=""/>
-    <attributes name="mwportkey" value="80"/>
+    <attributes name="mwportkey" value=""/>
     <attributes name="win8certificatekey" value=""/>
     <attributes name="BRICK" value="false"/>
     <attributes name="ID_CAP_APPOINTMENTS" value="true"/>
@@ -93,7 +93,7 @@
     <attributes name="bb10keystorepassword" value=""/>
     <attributes name="pathpatternkey" value=""/>
     <attributes name="wp8iconicsmallkey" value=""/>
-    <attributes name="splashlogokey" value="0=splash.9.png,1=splash_360x480.png,8=splash.9.png,2=splash_360x480.png,3=,42=,16=splash_768x1024.png,18=splash_720x1280.png,43=,31=splash_768x1024.png,32=splash_720x1280.png,37=splash_1280x720.png,22=splash_360x480.png,23=splash.9.png,24=splash_360x480.png,1000=,1001=,1002=,45=,35=,44=,36=,21="/>
+    <attributes name="splashlogokey" value="0=splash.9.png,1=splash_360x480.png,8=splash.9.png,2=splash_360x480.png,3=splash_480x762.png,42=splash_480x762.png,16=splash_768x1024.png,18=splash_720x1280.png,43=,31=splash_768x1024.png,32=splash_720x1280.png,37=splash_1280x720.png,22=splash_360x480.png,23=splash.9.png,24=splash_360x480.png,1000=,1001=,1002=,45=,35=,44=,36=,21="/>
     <attributes name="Shared_User_Certificates" value="true"/>
     <attributes name="inputaccessoryviewtype" value="nextprevtoolbar"/>
     <attributes name="android_allowselfsignedcertificates" value="None"/>
@@ -206,7 +206,7 @@
     <attributes name="Location" value="true"/>
     <attributes name="ACCESS_SURFACE_FLINGER" value="false"/>
     <attributes name="currentgaversion" value="5.5.20.QA_v201309131735"/>
-    <attributes name="mwhttpsportkey" value="443"/>
+    <attributes name="mwhttpsportkey" value=""/>
     <attributes name="pathkey" value=""/>
     <attributes name="vendornamekey" value="KonyLabs"/>
     <attributes name="mapkey" value=""/>
@@ -343,8 +343,8 @@
     <attributes name="win8smalllogokey" value=""/>
     <attributes name="SET_DEBUG_APP" value="false"/>
     <attributes name="tcandroid240basefontsize" value="10"/>
-    <attributes name="win8versionbuildkey" value="0"/>
     <attributes name="CHANGE_COMPONENT_ENABLED_STATE" value="false"/>
+    <attributes name="win8versionbuildkey" value="0"/>
     <attributes name="WP8_ID_CAP_MEDIALIB_AUDIO" value="true"/>
     <attributes name="access_pimdomain_messages" value="false"/>
     <attributes name="supportmarginpixelindip" value="true"/>
