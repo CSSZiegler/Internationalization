@@ -18,6 +18,7 @@ This Application will showcase the following features of Internationalization
  * SPA iPhone
  * BlackBerry
  * SPA BlackBerry
+ * Windows7.5 phone
  
 **Tablet** 
  * Android
