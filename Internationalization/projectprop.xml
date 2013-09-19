@@ -10,7 +10,7 @@
     <attributes name="ACCOUNT_MANAGER" value="false"/>
     <attributes name="tcpalm480basefontsize" value="14"/>
     <attributes name="wp8cycle6key" value=""/>
-    <attributes name="wp8packagepublisheridkey" value=""/>
+    <attributes name="wp8packagepublisheridkey" value="76ee3155-af9d-49fe-a0a9-cddefcab9254"/>
     <attributes name="Home_or_Work_Networking" value="true"/>
     <attributes name="andminsdkkey" value="2.1"/>
     <attributes name="PERSISTENT_ACTIVITY" value="false"/>
@@ -28,10 +28,10 @@
     <attributes name="ACCESS_COARSE_LOCATION" value="false"/>
     <attributes name="RESTART_PACKAGES" value="false"/>
     <attributes name="ID_CAP_PHONEDIALER" value="true"/>
-    <attributes name="WP8_ID_CAP_WALLET_PAYMENTINSTRUMENTS" value="true"/>
+    <attributes name="WP8_ID_CAP_WALLET_PAYMENTINSTRUMENTS" value="false"/>
     <attributes name="removeprintstatements" value="true"/>
     <attributes name="appversionkey" value="1.0.0"/>
-    <attributes name="WP8_ID_CAP_GAMERSERVICES" value="true"/>
+    <attributes name="WP8_ID_CAP_GAMERSERVICES" value="false"/>
     <attributes name="BIND_WALLPAPER" value="false"/>
     <attributes name="isNewAppWithRespectToAndroidPackageName" value="true"/>
     <attributes name="SET_ANIMATION_SCALE" value="false"/>
@@ -101,7 +101,7 @@
     <attributes name="WP8_ID_CAP_IDENTITY_DEVICE" value="true"/>
     <attributes name="INSTALL_LOCATION_PROVIDER" value="false"/>
     <attributes name="fbxfolderpathkey" value=""/>
-    <attributes name="ID_RESOLUTION_HD720P" value="false"/>
+    <attributes name="ID_RESOLUTION_HD720P" value="true"/>
     <attributes name="READ_CONTACTS" value="false"/>
     <attributes name="wintileforegroundnamekey" value="Light"/>
     <attributes name="ID_CAP_GAMERSERVICES" value="true"/>
@@ -161,12 +161,12 @@
     <attributes name="win8toastcapablekey" value="no"/>
     <attributes name="ACCESS_CHECKIN_PROPERTIES" value="false"/>
     <attributes name="Webcam" value="true"/>
-    <attributes name="winmobileguidkey" value="b16ef7bc-2995-4fc9-917e-35857b592027"/>
+    <attributes name="winmobileguidkey" value="03681c3a-c2f1-4f07-bf23-02a6e8f72eb4"/>
     <attributes name="tcbjs240basefontsize" value="10"/>
     <attributes name="SET_ALWAYS_FINISH" value="false"/>
     <attributes name="apptitle" value=""/>
     <attributes name="apppackagekey" value="com.kony.i18n"/>
-    <attributes name="WP8_ID_CAP_WALLET_SECUREELEMENT" value="true"/>
+    <attributes name="WP8_ID_CAP_WALLET_SECUREELEMENT" value="false"/>
     <attributes name="SET_ALARM" value="false"/>
     <attributes name="read_device_identifying_information" value="false"/>
     <attributes name="RECEIVE_MMS" value="false"/>
@@ -205,7 +205,7 @@
     <attributes name="tcphoneformatindicator" value="false"/>
     <attributes name="Location" value="true"/>
     <attributes name="ACCESS_SURFACE_FLINGER" value="false"/>
-    <attributes name="currentgaversion" value="5.5.20.QA_v201309131735"/>
+    <attributes name="currentgaversion" value="5.5.21.QA_v201309171246"/>
     <attributes name="mwhttpsportkey" value=""/>
     <attributes name="pathkey" value=""/>
     <attributes name="vendornamekey" value="KonyLabs"/>
@@ -295,7 +295,7 @@
     <attributes name="tcbjs480basefontsize" value="10"/>
     <attributes name="createdgaversion" value="5.0.0"/>
     <attributes name="WP8_ID_CAP_MEDIALIB_PLAYBACK" value="true"/>
-    <attributes name="ID_RESOLUTION_WVGA" value="false"/>
+    <attributes name="ID_RESOLUTION_WVGA" value="true"/>
     <attributes name="desktopwebbasefontsize" value="16"/>
     <attributes name="tcbjs320basefontsize" value="10"/>
     <attributes name="CLEAR_APP_CACHE" value="false"/>
