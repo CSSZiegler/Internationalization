@@ -427,7 +427,7 @@
         <dialog_width>80</dialog_width>
         <headerId>None</headerId>
         <footerId>None</footerId>
-        <title>DeviceLocale</title>
+        <title>Internationalization</title>
         <init>
             <evtSequence>
                 <enabled>true</enabled>

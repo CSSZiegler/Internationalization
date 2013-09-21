@@ -20,7 +20,7 @@
     <pluginInfo version-no="5.5.0.beta_v201308312045" plugin-id="org.keplerproject.ldt.debug.ui.LuaDebugUIPlugin" plugin-name="Lua Debug UI"/>
     <pluginInfo version-no="5.5.16.QA_v201309171623" plugin-id="com.pat.android.Activator" plugin-name="Tablet Android"/>
     <pluginInfo version-no="5.5.7.QA_v201309181131" plugin-id="com.pat.j2me.J2MEPlugin" plugin-name="Blackberry &amp; J2ME"/>
-    <pluginInfo version-no="5.5.0.beta_v201308311937" plugin-id="com.pat.winmobile.WinMobilePlugin" plugin-name="Winmobile Plug-in"/>
+    <pluginInfo version-no="5.5.3.QA_v201309181647" plugin-id="com.pat.winmobile.WinMobilePlugin" plugin-name="Winmobile Plug-in"/>
     <pluginInfo version-no="5.5.3.QA_v201308291426" plugin-id="com.kony.windows.WindowsPhone8Plugin" plugin-name="Windows Phone 8 Plug-in"/>
     <pluginInfo version-no="5.5.0.beta_v201308312048" plugin-id="com.kony.windows.Windows8Plugin" plugin-name="Windows 8 Plug-in"/>
     <pluginInfo version-no="5.5.16.QA_v201309171434" plugin-id="com.pat.android.Activator" plugin-name="Android"/>

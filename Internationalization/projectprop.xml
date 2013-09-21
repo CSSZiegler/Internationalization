@@ -93,7 +93,7 @@
     <attributes name="bb10keystorepassword" value=""/>
     <attributes name="pathpatternkey" value=""/>
     <attributes name="wp8iconicsmallkey" value=""/>
-    <attributes name="splashlogokey" value="0=splash.9.png,1=splash_360x480.png,8=splash.9.png,2=splash_360x480.png,3=splash_480x762.png,42=splash_480x762.png,16=splash_768x1024.png,18=splash_720x1280.png,43=,31=splash_768x1024.png,32=splash_720x1280.png,37=splash_1280x720.png,22=splash_360x480.png,23=splash.9.png,24=splash_360x480.png,1000=,1001=,1002=,45=,35=,44=,36=,21="/>
+    <attributes name="splashlogokey" value="0=splash.9.png,1=splash_360x480.png,8=splash_360x480.png,2=splash_360x480.png,3=splash_480x762.png,42=splash_480x762.png,16=splash_768x1024.png,18=splash_720x1280.png,43=,31=splash_768x1024.png,32=splash_720x1280.png,37=splash_1280x720.png,22=splash_360x480.png,23=splash.9.png,24=splash_360x480.png,1000=,1001=,1002=,45=,35=,44=,36=,21="/>
     <attributes name="Shared_User_Certificates" value="true"/>
     <attributes name="inputaccessoryviewtype" value="nextprevtoolbar"/>
     <attributes name="android_allowselfsignedcertificates" value="None"/>
@@ -122,7 +122,7 @@
     <attributes name="BIND_APPWIDGET" value="false"/>
     <attributes name="wp8cycle5key" value=""/>
     <attributes name="hybdridcontextkey" value=""/>
-    <attributes name="ipadlandscapemodekey" value="false"/>
+    <attributes name="ipadlandscapemodekey" value="true"/>
     <attributes name="KILL_BACKGROUND_PROCESSES" value="false"/>
     <attributes name="tcnth400basefontsize" value="14"/>
     <attributes name="schemekey" value=""/>
@@ -170,7 +170,7 @@
     <attributes name="SET_ALARM" value="false"/>
     <attributes name="read_device_identifying_information" value="false"/>
     <attributes name="RECEIVE_MMS" value="false"/>
-    <attributes name="androidorientation" value="Portrait"/>
+    <attributes name="androidorientation" value="Both"/>
     <attributes name="WRITE_SYNC_SETTINGS" value="false"/>
     <attributes name="WRITE_EXTERNAL_STORAGE" value="false"/>
     <attributes name="tcbb440basefontsize" value="15"/>

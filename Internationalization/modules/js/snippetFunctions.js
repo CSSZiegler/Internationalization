@@ -36,7 +36,7 @@ function frmLocalPreShow(){
 		frmLocale.btnSetBundle.text = "Set";
 		frmLocale.btnDelBundle.text="Delete";
 		frmLocale.btnDefAsync.text ="Set";
-		frmLocale.btnCurAsync.text = "Set";alert("desktop preshow done");
+		frmLocale.btnCurAsync.text = "Set";
 		}catch(err)
 		{alert(err.message);
 		}
