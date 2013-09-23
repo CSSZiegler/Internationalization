@@ -646,9 +646,9 @@
         <winphone8_backButton>false</winphone8_backButton>
         <winphone8_maxappmenubuttons>4</winphone8_maxappmenubuttons>
         <win8TitleBarData>
-            <backButtonSkin>Skin Defaults</backButtonSkin>
+            <backButtonSkin>btnNormal</backButtonSkin>
             <showBackButton>true</showBackButton>
-            <skinID>Skin Defaults</skinID>
+            <skinID>sknTitleBarSampleApp</skinID>
             <visible>true</visible>
         </win8TitleBarData>
         <android_orientation>2</android_orientation>
@@ -977,9 +977,9 @@
                 <thinclient_override>false</thinclient_override>
                 <type>1</type>
                 <windows8>
-                    <left>1</left>
-                    <right>1</right>
-                    <top>1</top>
+                    <left>120</left>
+                    <right>50</right>
+                    <top>57</top>
                     <bottom>1</bottom>
                     <unit>px</unit>
                 </windows8>
@@ -6930,8 +6930,8 @@
                 <thinclient_override>false</thinclient_override>
                 <type>1</type>
                 <windows8>
-                    <left>16</left>
-                    <right>16</right>
+                    <left>120</left>
+                    <right>50</right>
                     <top>80</top>
                     <bottom>16</bottom>
                     <unit>px</unit>
@@ -8081,6 +8081,7 @@
         <overrideProperties>KForm.androidtitleBar</overrideProperties>
         <overrideProperties>KForm.ipad_Orientation</overrideProperties>
         <overrideProperties>KForm.ipadtitleBar</overrideProperties>
+        <overrideProperties>KForm.win8titleBar</overrideProperties>
         <winphone8_intransition>Default</winphone8_intransition>
         <winphone8_outtransition>Default</winphone8_outtransition>
         <winphone8_intransitionmode>Default</winphone8_intransitionmode>

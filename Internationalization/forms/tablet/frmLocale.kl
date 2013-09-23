@@ -670,9 +670,9 @@
         <winphone8_backButton>false</winphone8_backButton>
         <winphone8_maxappmenubuttons>4</winphone8_maxappmenubuttons>
         <win8TitleBarData>
-            <backButtonSkin>Skin Defaults</backButtonSkin>
+            <backButtonSkin>btnNormal</backButtonSkin>
             <showBackButton>true</showBackButton>
-            <skinID>Skin Defaults</skinID>
+            <skinID>sknTitleBarSampleApp</skinID>
             <visible>true</visible>
         </win8TitleBarData>
         <android_orientation>2</android_orientation>
@@ -1005,10 +1005,10 @@
                 <thinclient_override>false</thinclient_override>
                 <type>1</type>
                 <windows8>
-                    <left>1</left>
-                    <right>1</right>
-                    <top>1</top>
-                    <bottom>1</bottom>
+                    <left>120</left>
+                    <right>50</right>
+                    <top>57</top>
+                    <bottom>0</bottom>
                     <unit>px</unit>
                 </windows8>
                 <windows8_override>true</windows8_override>
@@ -1782,7 +1782,7 @@
                         <bottom>1</bottom>
                         <unit>px</unit>
                     </windows8>
-                    <windows8_override>true</windows8_override>
+                    <windows8_override>false</windows8_override>
                     <winmobile>
                         <left>1</left>
                         <right>1</right>
@@ -2285,7 +2285,7 @@
                         </bb10>
                         <bb10_override>false</bb10_override>
                         <bb_override>true</bb_override>
-                        <default_override>false</default_override>
+                        <default_override>true</default_override>
                         <defaults>
                             <left>0</left>
                             <right>0</right>
@@ -19829,6 +19829,7 @@
         <overrideProperties>KForm.androidtitleBar</overrideProperties>
         <overrideProperties>KForm.ipadtitleBar</overrideProperties>
         <overrideProperties>KForm.iphonetitleBar</overrideProperties>
+        <overrideProperties>KForm.win8titleBar</overrideProperties>
         <winphone8_intransition>Default</winphone8_intransition>
         <winphone8_outtransition>Default</winphone8_outtransition>
         <winphone8_intransitionmode>Default</winphone8_intransitionmode>
