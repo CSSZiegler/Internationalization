@@ -26,6 +26,7 @@ This Application will showcase the following features of Internationalization
  * iPad
  * SPA iPad
  * SPA Android
+ * Windows 8
  
 **Desktop**
  * DesktopWeb
