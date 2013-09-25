@@ -20,8 +20,7 @@ function getCurrentLocale()
 *	Name    : getSupportedLocales
 *	Author  : Kony
 *	Purpose : Get the supported locales of the application 
-*****************************************************************
-*/
+******************************************************************/
 function getSupportedLocales()
 {
 	var list = kony.i18n.getSupportedLocales();
@@ -43,8 +42,12 @@ function getSupportedLocales()
 		frmLocale.lblSupLocale.text="Supported Locales :"+list;
 		frmLocale.lblSupLocale.isVisible=true;	
 		//#else
-		frmLocale.tabPaneContent.lblSupLocale.text="Supported Locales :"+list;
-		frmLocale.tabPaneContent.lblSupLocale.isVisible=true;	
+		for(i=0;i<5;i++)
+		{
+			languageList=languageList+" "+kony.table.get(list,i)+",";
+		}
+		frmLocale.tabPaneContent.lblSupLocale.text="Supported Locales :"+languageList+"...";
+		frmLocale.tabPaneContent.lblSupLocale.isVisible=true;
 		//#endif		
 	}
 }
