@@ -9010,7 +9010,7 @@
         <att name="Name" value="sknBtnNormalSampleApp" type="String"/>
         <att name="WidgetType" value="Button" type="String"/>
         <att name="Bg_type" value="0" type="int"/>
-        <att name="Background_color" value="27,147,226" type="RGB"/>
+        <att name="Background_color" value="60,149,186" type="RGB"/>
         <att name="Rightbackground_color" value="255,255,255" type="RGB"/>
         <att name="Bg_gradient_style" value="0" type="int"/>
         <att name="Rightbg_gradient_style" value="0" type="int"/>

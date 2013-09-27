@@ -2,7 +2,7 @@
     <attributes name="applogokey" value="0=icon.png"/>
     <attributes name="androidmapkey2" value=""/>
     <attributes name="ACCESS_WIFI_STATE" value="false"/>
-    <attributes name="mwaddrkey" value=""/>
+    <attributes name="mwaddrkey" value="10.10.12.56"/>
     <attributes name="portkey" value=""/>
     <attributes name="INTERNAL_SYSTEM_WINDOW" value="false"/>
     <attributes name="WRITE_SETTINGS" value="false"/>
@@ -81,7 +81,7 @@
     <attributes name="MANAGE_ACCOUNTS" value="false"/>
     <attributes name="androidscreenanydensity" value="true"/>
     <attributes name="win8badgelogokey" value=""/>
-    <attributes name="mwportkey" value=""/>
+    <attributes name="mwportkey" value="8080"/>
     <attributes name="win8certificatekey" value=""/>
     <attributes name="BRICK" value="false"/>
     <attributes name="ID_CAP_APPOINTMENTS" value="true"/>
@@ -117,6 +117,7 @@
     <attributes name="tcbb480basefontsize" value="17"/>
     <attributes name="desktopwebnoscriptmessage" value="To use this site, first enable your browser&#039;s JavaScript support and then refresh this page."/>
     <attributes name="tcbb360basefontsize" value="13"/>
+    <attributes name="appportkey" value=""/>
     <attributes name="WP8_ID_CAP_PHONEDIALER" value="true"/>
     <attributes name="bgcolorkey" value="181,217,245"/>
     <attributes name="BIND_APPWIDGET" value="false"/>
@@ -126,6 +127,7 @@
     <attributes name="KILL_BACKGROUND_PROCESSES" value="false"/>
     <attributes name="tcnth400basefontsize" value="14"/>
     <attributes name="schemekey" value=""/>
+    <attributes name="appprotokey" value="http"/>
     <attributes name="win8versionmajorkey" value="1"/>
     <attributes name="win8lockscreennotificationskey" value="not set"/>
     <attributes name="andapplicationtags" value=""/>
@@ -188,9 +190,9 @@
     <attributes name="ID_CAP_CONTACTS" value="true"/>
     <attributes name="defaultlocalekey" value="en_US"/>
     <attributes name="WRITE_APN_SETTINGS" value="false"/>
-    <attributes name="ID_CAP_PUSH_NOTIFICATION" value="true"/>
     <attributes name="CONTROL_LOCATION_UPDATES" value="false"/>
     <attributes name="bb10packageid" value=""/>
+    <attributes name="ID_CAP_PUSH_NOTIFICATION" value="true"/>
     <attributes name="win8shortnamekey" value="i18n"/>
     <attributes name="MASTER_CLEAR" value="false"/>
     <attributes name="tcnoscriptmessage" value="To use this site, first enable your browser&#039;s JavaScript support and then refresh this page."/>
@@ -205,7 +207,7 @@
     <attributes name="tcphoneformatindicator" value="false"/>
     <attributes name="Location" value="true"/>
     <attributes name="ACCESS_SURFACE_FLINGER" value="false"/>
-    <attributes name="currentgaversion" value="5.5.21.QA_v201309171246"/>
+    <attributes name="currentgaversion" value="5.5.24.QA_v201309231046"/>
     <attributes name="mwhttpsportkey" value=""/>
     <attributes name="pathkey" value=""/>
     <attributes name="vendornamekey" value="KonyLabs"/>
@@ -326,6 +328,7 @@
     <attributes name="customgcmbroadcastreceiver" value=""/>
     <attributes name="WP8_ID_CAP_REMOVABLE_STORAGE" value="true"/>
     <attributes name="MODIFY_PHONE_STATE" value="false"/>
+    <attributes name="appusedefault" value="true"/>
     <attributes name="tcpalm320basefontsize" value="12"/>
     <attributes name="androidInstallLocation" value="Auto"/>
     <attributes name="androidscreenlarge" value="true"/>
@@ -334,6 +337,7 @@
     <attributes name="wp8cyclesmallkey" value=""/>
     <attributes name="bb10description" value=""/>
     <attributes name="ACCESS_LOCATION_EXTRA_COMMANDS" value="false"/>
+    <attributes name="appaddrkey" value=""/>
     <attributes name="hybridportkey" value=""/>
     <attributes name="andmanifesttags" value=""/>
     <attributes name="WRITE_CONTACTS" value="false"/>
@@ -343,8 +347,8 @@
     <attributes name="win8smalllogokey" value=""/>
     <attributes name="SET_DEBUG_APP" value="false"/>
     <attributes name="tcandroid240basefontsize" value="10"/>
-    <attributes name="CHANGE_COMPONENT_ENABLED_STATE" value="false"/>
     <attributes name="win8versionbuildkey" value="0"/>
+    <attributes name="CHANGE_COMPONENT_ENABLED_STATE" value="false"/>
     <attributes name="WP8_ID_CAP_MEDIALIB_AUDIO" value="true"/>
     <attributes name="access_pimdomain_messages" value="false"/>
     <attributes name="supportmarginpixelindip" value="true"/>
@@ -382,8 +386,8 @@
     <attributes name="spawindows480basefontsize" value="12"/>
     <attributes name="wp8cycle9key" value=""/>
     <attributes name="MOUNT_UNMOUNT_FILESYSTEMS" value="false"/>
-    <attributes name="BROADCAST_WAP_PUSH" value="false"/>
     <attributes name="tcandroid480basefontsize" value="16"/>
+    <attributes name="BROADCAST_WAP_PUSH" value="false"/>
     <attributes name="BROADCAST_SMS" value="false"/>
     <attributes name="tcandroid320basefontsize" value="12"/>
     <attributes name="ID_REQ_REARCAMERA" value="false"/>

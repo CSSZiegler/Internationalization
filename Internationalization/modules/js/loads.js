@@ -24,20 +24,7 @@ function getCurrentLocale()
 function getSupportedLocales()
 {
 	var list = kony.i18n.getSupportedLocales();
-	var languageList=" ";
-	if(kony.os.deviceInfo().name == "blackberry")
-	{
-		for(i=0; i<list.length; i++)
-		{
-			if(i!=list.length-1)
-				languageList= languageList+" "+list[i]["name"]+",";
-			else
-				languageList= languageList+" "+list[i]["name"];
-		}
-		frmLocale.tabPaneContent.lblSupLocale.isVisible=true;
-		frmLocale.tabPaneContent.lblSupLocale.text="Supported Locales :"+languageList;
-	}
-	else{		
+	var languageList=" ";		
 		//#ifdef desktopweb
 		frmLocale.lblSupLocale.text="Supported Locales :"+list;
 		frmLocale.lblSupLocale.isVisible=true;	
@@ -49,10 +36,7 @@ function getSupportedLocales()
 		frmLocale.tabPaneContent.lblSupLocale.text="Supported Locales :"+languageList+"...";
 		frmLocale.tabPaneContent.lblSupLocale.isVisible=true;
 		//#endif		
-	}
 }
-
-
 /******************************************************************
 *	Name    : getCurrentDeviceLocale
 *	Author  : Kony
@@ -70,14 +54,11 @@ function getCurrentDeviceLocale()
 	frmLocale.tabPaneContent.lblDevLocale.text="Device Locale :"+JSON.stringify(locale);	
 	//#endif
 }
-
-
 /******************************************************************
 *	Name    : setResourceBundle
 *	Author  : Kony
 *	Purpose : Set the resource bundle for different locales 
-*****************************************************************
-*/
+******************************************************************/
 function setResourceBundle()
 {
 	kony.i18n.setResourceBundle({key1:"us key1",key2:"us key2"}, "en_US");
