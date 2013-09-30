@@ -1390,7 +1390,7 @@
                 <rc_palmpre>tabview</rc_palmpre>
                 <rc_symbian>collapsibleview</rc_symbian>
                 <rc_win8>tabview</rc_win8>
-                <rc_winPhone8>tabview</rc_winPhone8>
+                <rc_winPhone8>collapsibleview</rc_winPhone8>
                 <rc_wm>collapsibleview</rc_wm>
                 <rc_wm6x>collapsibleview</rc_wm6x>
                 <spa>collapsibleview</spa>
@@ -1677,7 +1677,7 @@
                         <bottom>1</bottom>
                         <unit>px</unit>
                     </iphonerc>
-                    <iphonerc_override>true</iphonerc_override>
+                    <iphonerc_override>false</iphonerc_override>
                     <j2me>
                         <left>0</left>
                         <right>0</right>
@@ -1774,7 +1774,7 @@
                         <unit>px</unit>
                     </winmobile6x>
                     <winmobile6x_override>true</winmobile6x_override>
-                    <winmobile_override>true</winmobile_override>
+                    <winmobile_override>false</winmobile_override>
                     <winphone8>
                         <left>1</left>
                         <right>1</right>
@@ -1782,7 +1782,7 @@
                         <bottom>1</bottom>
                         <unit>px</unit>
                     </winphone8>
-                    <winphone8_override>true</winphone8_override>
+                    <winphone8_override>false</winphone8_override>
                     <xhtmlAdvBB>
                         <left>0</left>
                         <right>0</right>
@@ -2953,7 +2953,7 @@
                         <bottom>1</bottom>
                         <unit>px</unit>
                     </iphonerc>
-                    <iphonerc_override>true</iphonerc_override>
+                    <iphonerc_override>false</iphonerc_override>
                     <j2me>
                         <left>0</left>
                         <right>0</right>
@@ -3050,7 +3050,7 @@
                         <unit>px</unit>
                     </winmobile6x>
                     <winmobile6x_override>true</winmobile6x_override>
-                    <winmobile_override>true</winmobile_override>
+                    <winmobile_override>false</winmobile_override>
                     <winphone8>
                         <left>1</left>
                         <right>1</right>
@@ -3058,7 +3058,7 @@
                         <bottom>1</bottom>
                         <unit>px</unit>
                     </winphone8>
-                    <winphone8_override>true</winphone8_override>
+                    <winphone8_override>false</winphone8_override>
                     <xhtmlAdvBB>
                         <left>0</left>
                         <right>0</right>
@@ -4229,7 +4229,7 @@
                         <bottom>1</bottom>
                         <unit>px</unit>
                     </iphonerc>
-                    <iphonerc_override>true</iphonerc_override>
+                    <iphonerc_override>false</iphonerc_override>
                     <j2me>
                         <left>0</left>
                         <right>0</right>
@@ -4326,7 +4326,7 @@
                         <unit>px</unit>
                     </winmobile6x>
                     <winmobile6x_override>true</winmobile6x_override>
-                    <winmobile_override>true</winmobile_override>
+                    <winmobile_override>false</winmobile_override>
                     <winphone8>
                         <left>1</left>
                         <right>1</right>
@@ -4334,7 +4334,7 @@
                         <bottom>1</bottom>
                         <unit>px</unit>
                     </winphone8>
-                    <winphone8_override>true</winphone8_override>
+                    <winphone8_override>false</winphone8_override>
                     <xhtmlAdvBB>
                         <left>0</left>
                         <right>0</right>
@@ -5505,7 +5505,7 @@
                         <bottom>1</bottom>
                         <unit>px</unit>
                     </iphonerc>
-                    <iphonerc_override>true</iphonerc_override>
+                    <iphonerc_override>false</iphonerc_override>
                     <j2me>
                         <left>0</left>
                         <right>0</right>
@@ -5602,7 +5602,7 @@
                         <unit>px</unit>
                     </winmobile6x>
                     <winmobile6x_override>true</winmobile6x_override>
-                    <winmobile_override>true</winmobile_override>
+                    <winmobile_override>false</winmobile_override>
                     <winphone8>
                         <left>1</left>
                         <right>1</right>
@@ -5610,7 +5610,7 @@
                         <bottom>1</bottom>
                         <unit>px</unit>
                     </winphone8>
-                    <winphone8_override>true</winphone8_override>
+                    <winphone8_override>false</winphone8_override>
                     <xhtmlAdvBB>
                         <left>0</left>
                         <right>0</right>
@@ -7496,7 +7496,7 @@
                         <bottom>1</bottom>
                         <unit>px</unit>
                     </iphonerc>
-                    <iphonerc_override>true</iphonerc_override>
+                    <iphonerc_override>false</iphonerc_override>
                     <j2me>
                         <left>0</left>
                         <right>0</right>
@@ -7593,7 +7593,7 @@
                         <unit>px</unit>
                     </winmobile6x>
                     <winmobile6x_override>true</winmobile6x_override>
-                    <winmobile_override>true</winmobile_override>
+                    <winmobile_override>false</winmobile_override>
                     <winphone8>
                         <left>1</left>
                         <right>1</right>
@@ -7601,7 +7601,7 @@
                         <bottom>1</bottom>
                         <unit>px</unit>
                     </winphone8>
-                    <winphone8_override>true</winphone8_override>
+                    <winphone8_override>false</winphone8_override>
                     <xhtmlAdvBB>
                         <left>0</left>
                         <right>0</right>
@@ -9487,7 +9487,7 @@
                         <bottom>1</bottom>
                         <unit>px</unit>
                     </iphonerc>
-                    <iphonerc_override>true</iphonerc_override>
+                    <iphonerc_override>false</iphonerc_override>
                     <j2me>
                         <left>0</left>
                         <right>0</right>
@@ -9584,7 +9584,7 @@
                         <unit>px</unit>
                     </winmobile6x>
                     <winmobile6x_override>true</winmobile6x_override>
-                    <winmobile_override>true</winmobile_override>
+                    <winmobile_override>false</winmobile_override>
                     <winphone8>
                         <left>1</left>
                         <right>1</right>
@@ -9592,7 +9592,7 @@
                         <bottom>1</bottom>
                         <unit>px</unit>
                     </winphone8>
-                    <winphone8_override>true</winphone8_override>
+                    <winphone8_override>false</winphone8_override>
                     <xhtmlAdvBB>
                         <left>0</left>
                         <right>0</right>
@@ -10763,7 +10763,7 @@
                         <bottom>1</bottom>
                         <unit>px</unit>
                     </iphonerc>
-                    <iphonerc_override>true</iphonerc_override>
+                    <iphonerc_override>false</iphonerc_override>
                     <j2me>
                         <left>0</left>
                         <right>0</right>
@@ -10860,7 +10860,7 @@
                         <unit>px</unit>
                     </winmobile6x>
                     <winmobile6x_override>true</winmobile6x_override>
-                    <winmobile_override>true</winmobile_override>
+                    <winmobile_override>false</winmobile_override>
                     <winphone8>
                         <left>1</left>
                         <right>1</right>
@@ -10868,7 +10868,7 @@
                         <bottom>1</bottom>
                         <unit>px</unit>
                     </winphone8>
-                    <winphone8_override>true</winphone8_override>
+                    <winphone8_override>false</winphone8_override>
                     <xhtmlAdvBB>
                         <left>0</left>
                         <right>0</right>
@@ -12039,7 +12039,7 @@
                         <bottom>1</bottom>
                         <unit>px</unit>
                     </iphonerc>
-                    <iphonerc_override>true</iphonerc_override>
+                    <iphonerc_override>false</iphonerc_override>
                     <j2me>
                         <left>0</left>
                         <right>0</right>
@@ -12136,7 +12136,7 @@
                         <unit>px</unit>
                     </winmobile6x>
                     <winmobile6x_override>true</winmobile6x_override>
-                    <winmobile_override>true</winmobile_override>
+                    <winmobile_override>false</winmobile_override>
                     <winphone8>
                         <left>1</left>
                         <right>1</right>
@@ -12144,7 +12144,7 @@
                         <bottom>1</bottom>
                         <unit>px</unit>
                     </winphone8>
-                    <winphone8_override>true</winphone8_override>
+                    <winphone8_override>false</winphone8_override>
                     <xhtmlAdvBB>
                         <left>0</left>
                         <right>0</right>
@@ -13315,7 +13315,7 @@
                         <bottom>1</bottom>
                         <unit>px</unit>
                     </iphonerc>
-                    <iphonerc_override>true</iphonerc_override>
+                    <iphonerc_override>false</iphonerc_override>
                     <j2me>
                         <left>0</left>
                         <right>0</right>
@@ -13412,7 +13412,7 @@
                         <unit>px</unit>
                     </winmobile6x>
                     <winmobile6x_override>true</winmobile6x_override>
-                    <winmobile_override>true</winmobile_override>
+                    <winmobile_override>false</winmobile_override>
                     <winphone8>
                         <left>1</left>
                         <right>1</right>
@@ -13420,7 +13420,7 @@
                         <bottom>1</bottom>
                         <unit>px</unit>
                     </winphone8>
-                    <winphone8_override>true</winphone8_override>
+                    <winphone8_override>false</winphone8_override>
                     <xhtmlAdvBB>
                         <left>0</left>
                         <right>0</right>
@@ -15306,7 +15306,7 @@
                         <bottom>1</bottom>
                         <unit>px</unit>
                     </iphonerc>
-                    <iphonerc_override>true</iphonerc_override>
+                    <iphonerc_override>false</iphonerc_override>
                     <j2me>
                         <left>0</left>
                         <right>0</right>
@@ -15403,7 +15403,7 @@
                         <unit>px</unit>
                     </winmobile6x>
                     <winmobile6x_override>true</winmobile6x_override>
-                    <winmobile_override>true</winmobile_override>
+                    <winmobile_override>false</winmobile_override>
                     <winphone8>
                         <left>1</left>
                         <right>1</right>
@@ -15411,7 +15411,7 @@
                         <bottom>1</bottom>
                         <unit>px</unit>
                     </winphone8>
-                    <winphone8_override>true</winphone8_override>
+                    <winphone8_override>false</winphone8_override>
                     <xhtmlAdvBB>
                         <left>0</left>
                         <right>0</right>
@@ -17297,7 +17297,7 @@
                         <bottom>1</bottom>
                         <unit>px</unit>
                     </iphonerc>
-                    <iphonerc_override>true</iphonerc_override>
+                    <iphonerc_override>false</iphonerc_override>
                     <j2me>
                         <left>0</left>
                         <right>0</right>
@@ -17394,7 +17394,7 @@
                         <unit>px</unit>
                     </winmobile6x>
                     <winmobile6x_override>true</winmobile6x_override>
-                    <winmobile_override>true</winmobile_override>
+                    <winmobile_override>false</winmobile_override>
                     <winphone8>
                         <left>1</left>
                         <right>1</right>
@@ -17402,7 +17402,7 @@
                         <bottom>1</bottom>
                         <unit>px</unit>
                     </winphone8>
-                    <winphone8_override>true</winphone8_override>
+                    <winphone8_override>false</winphone8_override>
                     <xhtmlAdvBB>
                         <left>0</left>
                         <right>0</right>

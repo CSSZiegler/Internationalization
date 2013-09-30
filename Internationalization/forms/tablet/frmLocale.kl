@@ -1418,7 +1418,7 @@
                 <rc_wm>tabview</rc_wm>
                 <rc_wm6x>tabview</rc_wm6x>
                 <spa>collapsibleview</spa>
-                <spaTablet>tabview</spaTablet>
+                <spaTablet>collapsibleview</spaTablet>
                 <tc>tabview</tc>
             </tabviewdata>
             <onExpand_root>

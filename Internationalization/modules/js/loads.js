@@ -24,16 +24,21 @@ function getCurrentLocale()
 function getSupportedLocales()
 {
 	var list = kony.i18n.getSupportedLocales();
+	var len = list.length;
 	var languageList=" ";		
 		//#ifdef desktopweb
 		frmLocale.lblSupLocale.text="Supported Locales :"+list;
 		frmLocale.lblSupLocale.isVisible=true;	
 		//#else
+		if(len==1)
+		{
+			frmLocale.tabPaneContent.lblSupLocale.text="Supported Locales :"+list+".";
+		}else{
 		for(i=0;i<5;i++)
 		{
 			languageList=languageList+" "+kony.table.get(list,i)+",";
 		}
-		frmLocale.tabPaneContent.lblSupLocale.text="Supported Locales :"+languageList+"...";
+		frmLocale.tabPaneContent.lblSupLocale.text="Supported Locales :"+languageList+"...";}
 		frmLocale.tabPaneContent.lblSupLocale.isVisible=true;
 		//#endif		
 }
