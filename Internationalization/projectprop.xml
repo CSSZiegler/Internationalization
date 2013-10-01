@@ -117,8 +117,8 @@
     <attributes name="tcbb480basefontsize" value="17"/>
     <attributes name="desktopwebnoscriptmessage" value="To use this site, first enable your browser&#039;s JavaScript support and then refresh this page."/>
     <attributes name="tcbb360basefontsize" value="13"/>
-    <attributes name="appportkey" value=""/>
     <attributes name="WP8_ID_CAP_PHONEDIALER" value="true"/>
+    <attributes name="appportkey" value=""/>
     <attributes name="bgcolorkey" value="181,217,245"/>
     <attributes name="BIND_APPWIDGET" value="false"/>
     <attributes name="wp8cycle5key" value=""/>
@@ -190,9 +190,9 @@
     <attributes name="ID_CAP_CONTACTS" value="true"/>
     <attributes name="defaultlocalekey" value="en_US"/>
     <attributes name="WRITE_APN_SETTINGS" value="false"/>
+    <attributes name="ID_CAP_PUSH_NOTIFICATION" value="true"/>
     <attributes name="CONTROL_LOCATION_UPDATES" value="false"/>
     <attributes name="bb10packageid" value=""/>
-    <attributes name="ID_CAP_PUSH_NOTIFICATION" value="true"/>
     <attributes name="win8shortnamekey" value="i18n"/>
     <attributes name="MASTER_CLEAR" value="false"/>
     <attributes name="tcnoscriptmessage" value="To use this site, first enable your browser&#039;s JavaScript support and then refresh this page."/>
@@ -207,7 +207,7 @@
     <attributes name="tcphoneformatindicator" value="false"/>
     <attributes name="Location" value="true"/>
     <attributes name="ACCESS_SURFACE_FLINGER" value="false"/>
-    <attributes name="currentgaversion" value="5.5.24.QA_v201309231046"/>
+    <attributes name="currentgaversion" value="5.5.25.QA_v201309281727_r2"/>
     <attributes name="mwhttpsportkey" value=""/>
     <attributes name="pathkey" value=""/>
     <attributes name="vendornamekey" value="KonyLabs"/>
@@ -386,8 +386,8 @@
     <attributes name="spawindows480basefontsize" value="12"/>
     <attributes name="wp8cycle9key" value=""/>
     <attributes name="MOUNT_UNMOUNT_FILESYSTEMS" value="false"/>
-    <attributes name="tcandroid480basefontsize" value="16"/>
     <attributes name="BROADCAST_WAP_PUSH" value="false"/>
+    <attributes name="tcandroid480basefontsize" value="16"/>
     <attributes name="BROADCAST_SMS" value="false"/>
     <attributes name="tcandroid320basefontsize" value="12"/>
     <attributes name="ID_REQ_REARCAMERA" value="false"/>
