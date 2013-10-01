@@ -21,7 +21,7 @@ function getCurrentLocale()
 *	Author  : Kony
 *	Purpose : Get the supported locales of the application 
 ******************************************************************/
-function getSupportedLocales()
+function getSupportedLocales1()
 {
 	var list = kony.i18n.getSupportedLocales();
 	var len = list.length;
@@ -37,6 +37,32 @@ function getSupportedLocales()
 		for(i=0;i<5;i++)
 		{
 			languageList=languageList+" "+kony.table.get(list,i)+",";
+		}
+		frmLocale.tabPaneContent.lblSupLocale.text="Supported Locales :"+languageList+"...";}
+		frmLocale.tabPaneContent.lblSupLocale.isVisible=true;
+		//#endif		
+}
+function getSupportedLocales()
+{
+	var list = kony.i18n.getSupportedLocales();
+	var len = list.length;
+	var filter=new Array();
+		filter[0]="language";
+		filter[1]="country";
+		filter[2]="name";
+	var languageList=" ";		
+		//#ifdef desktopweb
+		frmLocale.lblSupLocale.text="Supported Locales :"+list;
+		frmLocale.lblSupLocale.isVisible=true;	
+		//#else
+		if(len==1)
+		{
+			frmLocale.tabPaneContent.lblSupLocale.text="Supported Locales :"+list+".";
+		}else{
+		for(i=0;i<3;i++)
+		{
+			list1=kony.table.get(list,i);
+			languageList=languageList+" "+JSON.stringify(list1, filter, " ")+",";
 		}
 		frmLocale.tabPaneContent.lblSupLocale.text="Supported Locales :"+languageList+"...";}
 		frmLocale.tabPaneContent.lblSupLocale.isVisible=true;
